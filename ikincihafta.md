@@ -132,11 +132,11 @@ To rebase and merge pull requests, you must have write permissions in the reposi
  
 ** 4 Farklı Projede Yapılacak Change Authentication**
  
- -[No Authentication](https://github.com/Kodluyoruz51BootcampMVCCore/arastirma-odevi-omrfyildiz/tree/master/Authentications/No_Authentication)
+ -[No Authentication](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-omrfyildiz/tree/master/Authentications/No_Authentication)
  
- -[Individual User Account](https://github.com/Kodluyoruz51BootcampMVCCore/arastirma-odevi-omrfyildiz/tree/master/Authentications/Individual%20User%20Account)
+ -[Individual User Account](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-omrfyildiz/tree/master/Authentications/Individual%20User%20Account)
  
- -[Work or School Accounts](https://github.com/Kodluyoruz51BootcampMVCCore/arastirma-odevi-omrfyildiz/tree/master/Authentications/Work%20or%20School%20Accounts)
+ -[Work or School Accounts](https://github.com/Kodluyoruz51BootcampMVCCore/ii-hafta-odevi-omrfyildiz/tree/master/Authentications/Work%20or%20School%20Accounts)
  
  -Windows Authentication seçili projeler oluşturulmalı
  
