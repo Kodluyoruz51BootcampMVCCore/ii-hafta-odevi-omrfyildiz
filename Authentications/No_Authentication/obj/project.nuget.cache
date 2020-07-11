@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcmId1RIkGNq4roLTFa6MhBsd7Ag1Ay4KRvQp9W55tMWoCIBwRJS/dKAun0mwPu7EyJSfs+peE5BJm8ewSJMNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kısasamsung\\source\\repos\\No_Authentication\\No_Authentication\\No_Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kısasamsung\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
